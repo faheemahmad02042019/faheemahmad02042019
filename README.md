@@ -1,17 +1,17 @@
 ## Hi, I'm Faheem Ahmad
 
-**Senior Data Scientist** with **7+ years** of experience architecting AI-driven fraud and risk intelligence systems across global banking and fintech ecosystems.
+**Data Scientist** with **7+ years** of experience building fraud and credit risk intelligence systems across banking and fintech.
 
-I specialize in **graph machine learning**, **large language model integration**, **real-time transaction monitoring**, and **scalable cloud-native MLOps frameworks** — deployed at multi-million transaction scale.
+I specialize in **graph machine learning**, **large language model integration**, **real-time transaction monitoring**, and **scalable cloud-native MLOps frameworks** — deployed at multi-million record scale.
 
-Currently at **Chime** (USA), building graph-based fraud detection, RAG-powered investigation workflows, and streaming anomaly detection systems processing millions of daily events.
+Currently completing an **M.S. in Applied Data Science** at Clarkson University, New York, and building open-source projects in fraud analytics, graph ML, and LLM applications for finance.
 
 ---
 
 ### About Me
 
 - Working at the intersection of **AI/ML** and **financial crime prevention**
-- Building production systems that process **millions of transactions daily**
+- Building production systems over **multi-million record** transaction and bureau datasets
 - Passionate about **Responsible AI** — fairness, explainability, and governance in financial ML
 - MS in Applied Data Science from **Clarkson University**, New York
 - Open to collaboration on fraud analytics, graph ML, and LLM applications in finance
@@ -22,11 +22,8 @@ Currently at **Chime** (USA), building graph-based fraud detection, RAG-powered 
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| Aug 2025 – Present | **Data Scientist** | Chime | Remote, USA |
-| Aug 2023 – Dec 2024 | **Senior Data Scientist** | TCS | Remote, India |
 | Nov 2021 – Jul 2023 | **Data Scientist** | EXL Service | Gurugram, India |
 | May 2018 – Oct 2021 | **Senior Data Analyst** | West Infotech Pvt. Ltd. | Bengaluru, India |
-| Jun 2016 – Apr 2018 | **Data Analyst** | TALA | Remote, India |
 | May 2014 – May 2016 | **Assistant Manager** | Dena Bank (Bank of Baroda) | Aligarh, India |
 
 ---
@@ -113,19 +110,15 @@ Currently at **Chime** (USA), building graph-based fraud detection, RAG-powered 
 
 | Metric | Achievement |
 |--------|------------|
-| Fraud identification | **+14%** early-stage detection via graph-based features (Chime) |
-| Investigation efficiency | **-32%** manual review time using RAG + LLM summarization (Chime) |
-| Real-time processing | **2.3M** daily authorization events via streaming pipelines (Chime) |
-| False-positive reduction | **-11%** decline rate through causal inference frameworks (Chime) |
-| Regulatory automation | **-38%** policy clarification cycles via RAG architecture (TCS) |
-| Fraud network detection | **+19%** accuracy with graph neural networks (TCS) |
-| Model serving at scale | **1.8M** daily transactions with sub-100ms latency (TCS) |
 | Default prediction | **+10%** accuracy for probability-of-default models (EXL) |
 | Feature engineering | **25M** records consolidated, **-30%** dev cycle time (EXL) |
+| Customer LTV | **+12%** cross-sell response via Bayesian lifetime value models (EXL) |
 | Fraud response time | **40 min → <12 min** via Flink/Kafka streaming (West Infotech) |
 | Fraud ring detection | **+17%** via Neo4j graph analysis (West Infotech) |
-| Credit model improvement | **+11%** KS statistic on thin-file borrowers (TALA) |
-| Data pipeline latency | **5 days → <24 hours** via PySpark ELT (TALA) |
+| Transaction profiling | **18M** records analysed to surface mule account networks (West Infotech) |
+| Case closure efficiency | **+21%** through behavioural analytics dashboards (West Infotech) |
+| Loan processing speed | **+18%** faster approvals via workflow redesign (Dena Bank) |
+| Portfolio quality | **-12%** delinquency migration through periodic exposure reviews (Dena Bank) |
 
 ---
 
